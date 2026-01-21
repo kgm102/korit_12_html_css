@@ -1,10 +1,10 @@
-body{
+/* body{
   text-align: center;
   margin: 0;
-}
+} */
 
 div {
-  /* display: inline-block; */
+  display: inline-block;
   /*inline-block으로 display를 설정하게 되는 경우 width / height의 지정은 가능하나 margin에서 auto가 먹지 않습니다. 가로세로 지정은 block의 성격이지만 margin auto가 안먹히는 것은 inline부분의 성격이라고 할 수 있겠습니다.*/
   background-color: orangered;
   width: 200px;
